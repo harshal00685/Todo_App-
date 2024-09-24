@@ -1,1 +1,2 @@
-# Todo_App-
+# Todo_App
+This is a simple Todo app developed using html, css, Javascript... 
